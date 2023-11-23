@@ -16,10 +16,7 @@ This repository contains code for multi-person pose estimation using the Keras i
 Clone the repository and set up the required model files:
 
 ```bash
-git clone https://github.com/kevinlin311tw/keras-openpose-reproduce.git
-mv keras-openpose-reproduce/* ./
-mkdir model/keras
-cd model && sh get_keras_model.sh
+git clone https://github.com/amanharsh3/Pose-Detection.git
 ```
 
 ## Usage
